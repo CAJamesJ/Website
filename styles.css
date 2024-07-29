@@ -87,6 +87,10 @@ nav ul li a:hover::after{
     color: #ababab;
 }
 
+.transparent-white {
+    color: rgba(255, 255, 255, 0.9);
+}
+
 .row{
     display:flex;
     justify-content: space-between;

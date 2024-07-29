@@ -334,7 +334,7 @@ form .btn2{
     margin-top: 20px;
     cursor: pointer;
 }
-.copyright{
+/* .copyright{
     width: 100%;
     text-align: center;
     padding: 25px 0;
@@ -344,7 +344,7 @@ form .btn2{
 }
 .copyright i{
     color: var(--color-1);
-}
+} */
 
 /* ---------------css for small screens-------------- */
 

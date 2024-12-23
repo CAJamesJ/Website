@@ -111,7 +111,8 @@ nav ul li a:hover::after{
     margin-right: 50px;
     font-size: 18px;
     font-weight: 500;
-    color: rgba(255, 255, 255, 1);
+    /* color: rgba(255, 255, 255, 1); */
+    color: rgba(0, 255, 160, 0.3);
     cursor: pointer;
     position: relative;
 }
